@@ -1,0 +1,9 @@
+Himanshu is in command mode
+Hello, this is wokring just fine.
+class Himanshu {
+  Syst.out.println("Hello world"):
+ 
+  publiic static void main(String asgh[]) {
+  vim learningVim.txt <=== This command I copied form outside
+}
+}	
