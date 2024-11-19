@@ -1,4 +1,4 @@
-package Concurrency.Multithreading.BasicProducerConsumer;
+package concurrency.multithreading.BasicProducerConsumer;
 
 public class Consumer implements Runnable {
     Q q;

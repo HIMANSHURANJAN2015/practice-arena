@@ -1,4 +1,4 @@
-package Concurrency.Multithreading.BasicProducerConsumer;
+package concurrency.multithreading.BasicProducerConsumer;
 
 public class ProducerConsumerDemo {
     public static void main(String[] args) {
