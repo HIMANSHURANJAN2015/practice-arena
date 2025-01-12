@@ -10,11 +10,12 @@ public class LoggerImpl implements Logger {
     private String filepath;
     private PrintWriter pw;
     
-    //making constructor private
+    //step-1 make constructor private
     private LoggerImpl() {
 
     }
 
+    //step-2 create static method to get the singleton instance
     public static LoggerImpl getInstance() {
         if(instance == null) {
             instance = new LoggerImpl();

@@ -13,13 +13,14 @@ public class ConnectionPoolImpl implements ConnectionPool {
      */
     private ArrayList<DatabaseConnection> pool;//to store connection
 
-    //Making constructor private
+    //step-1 Make constructor private
     private ConnectionPoolImpl(int poolSize) {
         this.poolSize = poolSize;
         this.pool = new ArrayList<DatabaseConnection>(); //without this, I was getting error!!!. My bad
         initializePool();
     }
 
+    //step-2 create a static method to get the singeton instance
     public static ConnectionPoolImpl getInstance(int maxConnections) {
         if(instance==null) {
             synchronized(ConnectionPoolImpl.class) {

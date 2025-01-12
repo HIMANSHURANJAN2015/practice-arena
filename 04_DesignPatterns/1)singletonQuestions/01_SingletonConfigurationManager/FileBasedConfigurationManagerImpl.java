@@ -3,11 +3,12 @@ package com.assignment.question;
 public class FileBasedConfigurationManagerImpl extends FileBasedConfigurationManager {
     private static FileBasedConfigurationManagerImpl instance;
 
-    //making consturctor private
+    //stwp-1 make constructor private
     private FileBasedConfigurationManagerImpl(){
 
     }
 
+    //step-2 create a static method to get the singleton instance
     public static FileBasedConfigurationManager getInstance() {
         if(instance == null) {
             instance = new FileBasedConfigurationManagerImpl();
