@@ -1,5 +1,6 @@
 package com.assignment.question;
 
+//step-2 create concrete product
 public class SmsNotification extends Notification{
     /* Shifting to the parent class
     private String recipient;

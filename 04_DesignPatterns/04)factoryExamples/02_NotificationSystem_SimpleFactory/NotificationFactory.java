@@ -1,6 +1,6 @@
 package com.assignment.question;
 
-//step-2: Create factory class with static method to create objects
+//step-3: Create factory class with static method to create objects
 public class NotificationFactory {
 
     public static Notification createNotification(NotificationType type, String recipient, String sender, String message) {

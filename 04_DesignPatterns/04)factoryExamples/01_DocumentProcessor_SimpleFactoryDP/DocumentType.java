@@ -1,6 +1,6 @@
 package com.assignment.question;
 
-//step-3: Create sepaate file to store type
+//step-4: Create separate file to store type
 public enum DocumentType {
     TEXT, PRESENTATION, SPREAD_SHEET
 }

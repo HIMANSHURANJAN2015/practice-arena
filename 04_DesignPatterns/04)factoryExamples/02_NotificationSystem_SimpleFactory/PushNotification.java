@@ -1,5 +1,6 @@
 package com.assignment.question;
 
+//step-2 create concrete product
 public class PushNotification extends Notification {
 
     public PushNotification(String recipient, String message) {

@@ -1,8 +1,9 @@
 package com.assignment.question;
 
 /*
-step-1: Create prdduct hierarchy by shifting common attributes and methods to the parent class.
-Methods will be implemented in oarent class or will be abstract and implemented in child class.
+step-1: Create prdduct hierarchy for which create abstract product interface. For this. shift 
+common attributes and methods to the parent class.
+Methods will be implemented in parent class or will be abstract and implemented in child class.
 */
 public abstract class DocumentProcessor {
     /*So, shift them from other class

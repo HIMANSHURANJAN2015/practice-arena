@@ -1,7 +1,10 @@
 package com.assignment.question;
 
-//step-1: Create product hierarchy. For this, shift common attributes and methods
-//to the parent class. The methods wil be impleemnted here if possible, else abstract it and implement in child class.
+/*
+step-1: Create prdduct hierarchy for which create abstract product interface. For this. shift 
+common attributes and methods to the parent class.
+Methods will be implemented in parent class or will be abstract and implemented in child class.
+*/
 public abstract class Notification {
     private String recipient;
     private String message;
