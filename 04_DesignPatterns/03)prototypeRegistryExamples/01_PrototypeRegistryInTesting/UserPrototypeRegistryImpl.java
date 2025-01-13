@@ -5,8 +5,12 @@ import java.util.HashMap;
 //step-4:  Implement the registry interface.Adding a new file for it.
 public class UserPrototypeRegistryImpl implements UserPrototypeRegistry {
     //step-4.1 Have a registry in the form of Hashmap
-    private HashMap<UserType, User> registry = new HashMap<UserType, User>();
+    private HashMap<UserType, User> registry;
 
+    //if need then I can make it singleton also
+    public UserPrototypeRegistryImpl() {
+        this.registry = new HashMap<UserType, User>();
+    }
     
     public void addPrototype(User user) {
         registry.put(user.getType(), user);

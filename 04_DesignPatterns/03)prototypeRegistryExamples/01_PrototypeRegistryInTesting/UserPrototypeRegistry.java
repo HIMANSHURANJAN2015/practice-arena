@@ -9,6 +9,6 @@ public interface UserPrototypeRegistry {
     //step-3.2 to get protype
     User getPrototype(UserType type);
 
-    //step-3.3 to clone a user from the registry 
+    //step-3.3 to clone a user of that type from the prototypes saved in the registry 
     User clone(UserType type);
 }
