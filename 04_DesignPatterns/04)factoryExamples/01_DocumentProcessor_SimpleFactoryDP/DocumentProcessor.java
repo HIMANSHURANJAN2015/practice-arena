@@ -1,8 +1,11 @@
 package com.assignment.question;
 
+/*
+step-1: Create prdduct hierarchy by shifting common attributes and methods to the parent class.
+Methods will be implemented in oarent class or will be abstract and implemented in child class.
+*/
 public abstract class DocumentProcessor {
-    /*Step-2.1: As this common parent class should have all attributes and methods that are common 
-    to add document processors. So, shift them from other class
+    /*So, shift them from other class
     to here
     1. attibte =  private String documentName;
     2. methods = along wth shifting, I also made them abstract if it is different for each child class
