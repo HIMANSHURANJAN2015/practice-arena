@@ -2,7 +2,7 @@ import com.assignment.question.external.GoogleTranslateApi;
 import com.assignment.question.external.GoogleTranslationRequest;
 import com.assignment.question.external.MicrosoftTranslateApi;
 
-//Older code b4 using adapter DP. Soo its violating SRP and OCP
+//Older code b4 using adapter DP. See... its violating SRP and OCP
 public class TranslationManager {
 
     private GoogleTranslateApi googleTranslateApi = new GoogleTranslateApi();

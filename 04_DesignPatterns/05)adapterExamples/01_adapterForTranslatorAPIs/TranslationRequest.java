@@ -9,7 +9,13 @@ import lombok.NoArgsConstructor;
  * one parameter for each field in your class.
  * 
  * With the @AllArgsConstructor annotation, 
- * Lombok will automatically create a constructor
+ * Lombok will automatically create a constructor.
+ * 
+ * Note that: Lombok is not part of Java's built-in libraries. It's a separate third-party library 
+ * that you need to add to your project as a dependency. 
+ * Java itself doesn't include Lombok or its features out of the box. 
+ * You can easily include Lombok in your project by adding it as a dependency through your build tool, 
+ * such as Maven or Gradle. This allows you to use Lombok's annotations and features to reduce boilerplate code and make your Java code more concise and readable.
  */
 import lombok.Getter;
 /*
