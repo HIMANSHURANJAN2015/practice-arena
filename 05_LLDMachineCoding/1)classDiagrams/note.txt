@@ -1,0 +1,3 @@
+Addinf this file so that this folder can be uplodaed. In this folder, I will add design pattern images.
+
+draw.io will diredlty use this folder.
