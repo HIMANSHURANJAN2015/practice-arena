@@ -1,0 +1,3 @@
+In this file, I just add those application from which I practice basic spring/springboot features.
+
+Actual application is outside practice-arena since 1 repo (actual backend application) cant be inside another repo(practice arena)

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/04_DesignPatterns/01)singletonExamples/01)singletonExamples.iml" filepath="$PROJECT_DIR$/04_DesignPatterns/01)singletonExamples/01)singletonExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DesignPatterns/02)builderExamples/02)builderExamples.iml" filepath="$PROJECT_DIR$/04_DesignPatterns/02)builderExamples/02)builderExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DesignPatterns/03)prototypeRegistryExamples/03)prototypeRegistryExamples.iml" filepath="$PROJECT_DIR$/04_DesignPatterns/03)prototypeRegistryExamples/03)prototypeRegistryExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DesignPatterns/04)factoryExamples/04)factoryExamples.iml" filepath="$PROJECT_DIR$/04_DesignPatterns/04)factoryExamples/04)factoryExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DesignPatterns/05)adapterExamples/05)adapterExamples.iml" filepath="$PROJECT_DIR$/04_DesignPatterns/05)adapterExamples/05)adapterExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DesignPatterns/08)flywightExamples/08)flywightExamples.iml" filepath="$PROJECT_DIR$/04_DesignPatterns/08)flywightExamples/08)flywightExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DesignPatterns/09)strategyExamples/09)strategyExamples.iml" filepath="$PROJECT_DIR$/04_DesignPatterns/09)strategyExamples/09)strategyExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_DesignPatterns/10)observerExamples/10)observerExamples.iml" filepath="$PROJECT_DIR$/04_DesignPatterns/10)observerExamples/10)observerExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-arena.iml" filepath="$PROJECT_DIR$/practice-arena.iml" />
+    </modules>
+  </component>
+</project>
