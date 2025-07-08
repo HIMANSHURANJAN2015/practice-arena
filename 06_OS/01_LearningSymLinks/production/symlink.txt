@@ -1,0 +1,12 @@
+Hello, this I am creatign in symlink production2 directory. Ideally this file should also be seen in production folder. LEts see
+
+
+Yes, its working. This I am writng from production folder. This should reflect back tin production2 directory(symlink)
+
+
+Yes, in production2 this is actually. Shown. Wow
+
+
+Adding this after moving the file from desktop to practiceares/os folder as proper hierachy
+
+Opening from production2 symlink. Yes, even here it worked.
